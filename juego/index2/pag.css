@@ -22,4 +22,7 @@ footer {
 p{
     color: black;
 }
+body{
+    max-heigth:10px;
+}
 
